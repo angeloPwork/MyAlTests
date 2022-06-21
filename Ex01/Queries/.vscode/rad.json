@@ -1,0 +1,1 @@
+﻿{"Added":[{"Id":50104,"Kind":14,"Name":"Item Movements","PackagePath":"/src/qy50104_ItemMovementsQuery.al"}],"Modified":[{"Id":50104,"Kind":11,"Name":"Item Movements Query","PackagePath":"/src/cu50104_ItemMovementsQuery.al"},{"Id":50100,"Kind":16,"Name":"CustomerListExt","PackagePath":"/src/qry50102_TopCustomerOverview.al"}],"Removed":[]}

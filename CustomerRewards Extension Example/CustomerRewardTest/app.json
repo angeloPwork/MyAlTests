@@ -1,0 +1,37 @@
+{
+  "id": "5077d50f-2a8e-4aa5-aaeb-d170e1362263",
+  "name": "CustomerRewardTest",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    { 
+      "id": "46fc9366-1ee6-42af-b435-6b1bbf1c08b4",
+      "name": "sample extension",
+      "publisher": "Default publisher",
+      "version": "1.0.0.0"
+    } 
+  ],
+  "test": "13.0.0.0",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}

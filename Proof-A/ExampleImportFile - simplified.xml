@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<Company>
+  <Employee>
+      <FirstName>Pippo</FirstName>
+      <LastName>Papero</LastName>
+      <ContactNo>34567890</ContactNo>
+      <Email>pippo@xyz.com</Email>
+      <Address>
+           <City>PaperopoliCity</City>
+           <State>Paperopoli</State>
+           <Zip>0212</Zip>
+      </Address>
+  </Employee>
+  <Employee>
+      <FirstName>Pluto</FirstName>
+      <LastName>Cane</LastName>
+      <ContactNo>12345</ContactNo>
+      <Email>Pluto@xyz.com</Email>
+      <Address>
+           <City>PaperopoliCity</City>
+           <State>Paperopoli</State>
+           <Zip>0212</Zip>
+      </Address>
+  </Employee>
+</Company>
